@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Subway name:</strong>
+  <%= @subway.subway_name %>
+</p>
+
+<p>
+  <strong>Subway number:</strong>
+  <%= @subway.subway_number %>
+</p>
+
+<%= link_to 'Edit', edit_subway_path(@subway) %> |
+<%= link_to 'Back', subways_path %>

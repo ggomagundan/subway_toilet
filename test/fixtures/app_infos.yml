@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  db_server: MyString
+  image_server: MyString
+  android_version: MyString
+  ios_version: MyString
+
+two:
+  db_server: MyString
+  image_server: MyString
+  android_version: MyString
+  ios_version: MyString
