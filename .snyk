@@ -1,0 +1,59 @@
+version: v1.5.0
+ignore:
+  SNYK-RUBY-ACTIONPACK-20147:
+    - '* > kaminari@0.15.1':
+        reason: None given
+        expires: '2016-12-17T06:03:01.105Z'
+  SNYK-RUBY-ACTIONPACK-20158:
+    - '* > kaminari@0.15.1':
+        reason: None given
+        expires: '2016-12-17T06:03:01.105Z'
+  SNYK-RUBY-ACTIONPACK-20198:
+    - '* > kaminari@0.15.1':
+        reason: None given
+        expires: '2016-12-17T06:03:01.105Z'
+  SNYK-RUBY-ACTIONPACK-20200:
+    - '* > kaminari@0.15.1':
+        reason: None given
+        expires: '2016-12-17T06:03:01.105Z'
+  SNYK-RUBY-ACTIONPACK-20255:
+    - '* > kaminari@0.15.1':
+        reason: None given
+        expires: '2016-12-17T06:03:01.105Z'
+  SNYK-RUBY-ACTIONPACK-20256:
+    - '* > kaminari@0.15.1':
+        reason: None given
+        expires: '2016-12-17T06:03:01.105Z'
+  SNYK-RUBY-ACTIONPACK-20258:
+    - '* > kaminari@0.15.1':
+        reason: None given
+        expires: '2016-12-17T06:03:01.105Z'
+  SNYK-RUBY-ACTIONPACK-20264:
+    - '* > kaminari@0.15.1':
+        reason: None given
+        expires: '2016-12-17T06:03:01.109Z'
+  SNYK-RUBY-ACTIVERECORD-20149:
+    - '* > rails@4.0.2':
+        reason: None given
+        expires: '2016-12-17T06:03:01.109Z'
+  SNYK-RUBY-ACTIVERECORD-20184:
+    - '* > rails@4.0.2':
+        reason: None given
+        expires: '2016-12-17T06:03:01.109Z'
+  SNYK-RUBY-ACTIVERECORD-20190:
+    - '* > rails@4.0.2':
+        reason: None given
+        expires: '2016-12-17T06:03:01.109Z'
+  SNYK-RUBY-ACTIVERECORD-20259:
+    - '* > rails@4.0.2':
+        reason: None given
+        expires: '2016-12-17T06:03:01.109Z'
+  SNYK-RUBY-ACTIVESUPPORT-20229:
+    - '* > jbuilder@1.5.3':
+        reason: None given
+        expires: '2016-12-17T06:03:01.109Z'
+  SNYK-RUBY-MAIL-20244:
+    - '* > rails@4.0.2':
+        reason: None given
+        expires: '2016-12-17T06:03:01.145Z'
+patch: {}
