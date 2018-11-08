@@ -7,7 +7,7 @@ gem 'rails', '5.0.0'
 gem 'sqlite3'
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 5.0.5'
+gem 'sass-rails', '~> 5.0.7'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 2.7.2'
@@ -19,7 +19,7 @@ gem 'coffee-rails', '~> 4.1.1'
 # gem 'therubyracer', platforms: :ruby
 
 # Use jquery as the JavaScript library
-gem 'jquery-rails', '>= 4.0.1'
+gem 'jquery-rails', '>= 4.3.3'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks', '>= 5.0.0'
@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 1.5', '>= 1.5.3'
 
 gem 'nifty-generators'
 gem 'mysql2'
-gem 'kaminari', '>= 0.15.1'
+gem 'kaminari', '>= 1.1.1'
 gem 'geocoder'
 
 group :doc do
