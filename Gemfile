@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 1.5', '>= 1.5.3'
 
 gem 'nifty-generators'
 gem 'mysql2'
-gem 'kaminari', '>= 0.15.1'
+gem 'kaminari', '>= 1.1.1'
 gem 'geocoder'
 
 group :doc do

@@ -192,7 +192,7 @@ DEPENDENCIES
   geocoder
   jbuilder (~> 1.5, >= 1.5.3)
   jquery-rails (>= 4.3.3)
-  kaminari (>= 0.15.1)
+  kaminari (>= 1.1.1)
   mocha
   mysql2
   nifty-generators
