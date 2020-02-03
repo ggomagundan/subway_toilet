@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 1.5', '>= 1.5.3'
 gem 'nifty-generators'
 gem 'mysql2'
 gem 'kaminari', '>= 1.1.1'
-gem 'geocoder'
+gem 'geocoder', '>= 1.6.1'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
