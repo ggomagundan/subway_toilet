@@ -101,7 +101,7 @@ GEM
     net-ssh (2.8.0)
     nifty-generators (0.4.6)
     nio4r (2.5.2)
-    nokogiri (1.10.5)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     pry (0.9.12.6)
       coderay (~> 1.0)
