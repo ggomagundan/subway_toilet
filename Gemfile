@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '5.2.4.2'
+gem 'rails', '5.2.4.3'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 5.0.7'
+gem 'sass-rails', '~> 5.0.8'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 2.7.2'
@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 1.5', '>= 1.5.3'
 
 gem 'nifty-generators'
 gem 'mysql2'
-gem 'kaminari', '>= 1.1.1'
+gem 'kaminari', '>= 1.2.0'
 gem 'geocoder', '>= 1.6.1'
 
 group :doc do
