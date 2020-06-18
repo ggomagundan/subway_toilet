@@ -184,9 +184,9 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.1.11)
       execjs (>= 0.3.0, < 3)
-    websocket-driver (0.7.1)
+    websocket-driver (0.7.2)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.4)
+    websocket-extensions (0.1.5)
 
 PLATFORMS
   ruby
@@ -197,7 +197,7 @@ DEPENDENCIES
   geocoder (>= 1.6.1)
   jbuilder (~> 1.5, >= 1.5.3)
   jquery-rails (>= 4.3.5)
-  kaminari (>= 1.2.0)
+  kaminari (>= 1.2.1)
   mocha
   mysql2
   nifty-generators
